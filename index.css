@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+li a {
+  color: white;
+}
+
+  ul{
+    list-style-type:none;
+  }
+
+  a{text-decoration:none;}
+
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  .topnav .icon {
+    display: none;
+  }
+  
+  .HEADER1 {
+  height: 25%;
+  width: 100% ;
+  }
+
+.La Mala Pub {
+  font-size: 400%;
+  font-family: 'Bebas Neue', sans-serif;
+  margin-top: 0%;
+  margin-left: 0%;
+}
+
+.LISTAHEADER {
+
+  
+  text-align: right;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  flex: 100%;
+}
+
+.NOSOTROS-LISTA {
+  color: white;
+  flex: 50%;
+}
+
+.CONTACTO-LISTA {
+  color: white;
+  flex: 50%;
+
+}
+
+
+.SECTION1 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.A1{ 
+    background: color #000;
+    width: 100%;
+    height: 100%;
+}
+
+
+.SECTION1 {
+  background-color: #000;
+  text-align: center;
+  width: 100%;
+  background-image: url(.png);
+   background-size: cover;
+   background-position: center;
+}
+
+
+.Menú {
+  font-family:'Bebas Neue', sans-serif;
+  font-size: 75%;
+  color: white;
+  margin-top: 5%;
+}
+
+.Eventos {
+  width: 30%;
+  background-color: #000;
+  text-align: center;
+}
+
+.Reservas {
+  font-family:'Bebas Neue', sans-serif;
+  font-size: 150%;
+  text-align: center;
+}
+
+.FOOTER {
+  text-align: center;
+  font-family:'Bebas Neue', sans-serif;
+  background-color: black;
+}
+
+.SEGUINOS {
+  font-size: medium;
+}
+
+.ArticleFooter {
+text-align: center;
+  display: flex;
+  flex-direction: row;
+  font-size: small;
+}
